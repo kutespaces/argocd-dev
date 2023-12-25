@@ -1,0 +1,8 @@
+{
+  "name": "Installs Argo CD Devtools",
+  "id": "argocd-devtools",
+  "version": "1.0.0",
+  "privileged": true,
+  "init": true,
+  "mounts": [{ "source": "dind-var-lib-docker", "target": "/var/lib/docker", "type": "volume" }]
+}
