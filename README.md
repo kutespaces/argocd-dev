@@ -15,7 +15,10 @@ To properly view the rendered README either view it in your browser or open the 
 
 ## What's next
 
-* The [Development Toolchain Guide](https://argo-cd.readthedocs.io/en/latest/developer-guide/toolchain-guide/) describes all the commands in detail.
+* Read the guides:
+  * [Contributors Quick-Start](https://argo-cd.readthedocs.io/en/latest/developer-guide/contributors-quickstart/)
+  * [Development Toolchain Guide](https://argo-cd.readthedocs.io/en/latest/developer-guide/toolchain-guide/)
+  * [E2E Tests](https://argo-cd.readthedocs.io/en/latest/developer-guide/test-e2e/)
 
 ## Troubleshooting
 

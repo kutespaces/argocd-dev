@@ -12,7 +12,7 @@ main() {
 
   echo "installing make & helm"
   apt-get update
-  apt-get -y install make helm
+  apt-get -y install make helm gpg git-lfs
 
   echo "installing user devtools"
   "$DIR"/install-devtools.sh
